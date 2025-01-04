@@ -1,0 +1,8 @@
+.butns {
+    padding-bottom: 30px;
+   
+   }
+   .active {
+       background-color: rgb(182, 175, 175);
+       cursor: pointer;
+   }
